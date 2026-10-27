@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/devdreamer245/leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/devdreamer245/leetcode-submissions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1929-concatenation-of-array](https://github.com/devdreamer245/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
