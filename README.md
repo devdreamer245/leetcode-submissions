@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/devdreamer245/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/devdreamer245/leetcode-submissions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/devdreamer245/leetcode-submissions/tree/master/2678-number-of-senior-citizens) |
+| [3110-score-of-a-string](https://github.com/devdreamer245/leetcode-submissions/tree/master/3110-score-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
