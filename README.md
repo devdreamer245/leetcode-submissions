@@ -30,5 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/devdreamer245/leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/devdreamer245/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/devdreamer245/leetcode-submissions/tree/master/2678-number-of-senior-citizens) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/devdreamer245/leetcode-submissions/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/devdreamer245/leetcode-submissions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
