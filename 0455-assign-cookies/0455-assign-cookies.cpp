@@ -10,7 +10,7 @@ public:
         {
             if(s[j]<g[i])
                 j++;
-            else if(s[j]>=g[i])
+            else
             {
                 i++;
                 j++;
